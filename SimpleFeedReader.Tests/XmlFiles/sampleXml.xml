@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 30 Jun 2017 10:30:24 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Grenfell Tower: Cladding 'changed to cheaper version']]></title>
+            <description><![CDATA[Documents show the aluminium cladding was less fire-resistant than zinc, saving nearly £300,000.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-40453054</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-40453054</guid>
+            <pubDate>Fri, 30 Jun 2017 08:56:16 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/487A/production/_96745581_mediaitem96745580.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Gard: Life support to be turned off, parents say]]></title>
+            <description><![CDATA[His parents criticise doctors for not allowing them to bring the 10-month-old home to die.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-40454177</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-40454177</guid>
+            <pubDate>Fri, 30 Jun 2017 07:41:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F80E/production/_94920536_mediaitem94920535.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC to broadcast live TV coverage of English international and domestic cricket]]></title>
+            <description><![CDATA[English international and domestic cricket will be broadcast live on BBC TV for the first time in 21 years from 2020.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/40455556</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/40455556</guid>
+            <pubDate>Fri, 30 Jun 2017 10:28:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/89CA/production/_96747253_cricket-3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grenfell Tower: Man charged with fire death 'fraud']]></title>
+            <description><![CDATA[A 52-year-old man is alleged to have claimed family members died in the Grenfell Tower block blaze.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-40449956</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-40449956</guid>
+            <pubDate>Fri, 30 Jun 2017 00:15:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/066C/production/_96744610_mediaitem96744609.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Corbyn sacks three frontbenchers over single market vote]]></title>
+            <description><![CDATA[Three frontbenchers fired for rebelling against Labour's leader during Queen's Speech vote.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-40451301</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-40451301</guid>
+            <pubDate>Fri, 30 Jun 2017 06:53:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1490A/production/_96743248_labourmps976_gettylabour.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[East London acid attack: Image of suspect released]]></title>
+            <description><![CDATA[Two people have "life-changing" injuries after a corrosive substance was thrown on to them.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-40440741</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-40440741</guid>
+            <pubDate>Thu, 29 Jun 2017 17:26:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4EF5/production/_96731202_burns.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stormzy and other celebrities tweet bullied school boy]]></title>
+            <description><![CDATA[Chris Hope-Smith asked people on Twitter to send positive messages to his son, Ollie.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-leeds-40451616</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-leeds-40451616</guid>
+            <pubDate>Fri, 30 Jun 2017 09:40:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AEB4/production/_96742744_mediaitem96742739.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feltham young offenders institution 'not safe for staff or boys']]></title>
+            <description><![CDATA[An officer was seriously assaulted while inspectors were looking around Feltham Prison.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-london-40443533</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-london-40443533</guid>
+            <pubDate>Thu, 29 Jun 2017 23:10:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3C88/production/_91069451_29005f7b-8851-4c73-a4c9-5428a6dbd1d2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Manchester attack: Martyn Hett's funeral to take place]]></title>
+            <description><![CDATA[Coronation Street superfan Martyn Hett was known for his tattoo of stalwart Deirdre Barlow.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-40445403</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-40445403</guid>
+            <pubDate>Fri, 30 Jun 2017 08:38:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/72EB/production/_96591492_db24662e-57d0-431e-8213-9cedf138be51.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police checks for 'low risk' sex offenders relaxed]]></title>
+            <description><![CDATA[Annual home visits and and regular risk assessments could be scrapped for about 16,000 people.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-40451318</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-40451318</guid>
+            <pubDate>Thu, 29 Jun 2017 22:21:33 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/15AC5/production/_96737788_police_bbc.jpg"/>
+        </item>
+    </channel>
+</rss>

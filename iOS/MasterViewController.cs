@@ -28,6 +28,7 @@ namespace SimpleFeedReader
         {
             base.ViewDidLoad();
 
+            LoadingIndicator.StartAnimating();
             Title = "RSS Feeds";
 
             DetailViewController = (DetailViewController)((UINavigationController)SplitViewController.ViewControllers[1]).TopViewController;
@@ -42,6 +43,8 @@ namespace SimpleFeedReader
             });
 
             HandleOffline();
+            LoadingIndicator.StopAnimating();
+            LoadingIndicator.Hidden = true;
         }
 
         public override void ViewWillAppear(bool animated)

@@ -16,6 +16,10 @@ namespace SimpleFeedReader
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIActivityIndicatorView LoadingIndicator { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIView StoryView { get; set; }
 
         [Outlet]
@@ -24,6 +28,11 @@ namespace SimpleFeedReader
 
         void ReleaseDesignerOutlets ()
         {
+            if (LoadingIndicator != null) {
+                LoadingIndicator.Dispose ();
+                LoadingIndicator = null;
+            }
+
             if (StoryView != null) {
                 StoryView.Dispose ();
                 StoryView = null;

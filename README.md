@@ -8,5 +8,6 @@ Functionality:
 4. Can navigate to full news article by selecting on item
 5. Can view article offline in browser if user has already navigated to story first.
 6. Notification if you are offline
+7. Remove HTML tags from description of the feed item
 
 
